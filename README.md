@@ -21,6 +21,4 @@ Scope:
 * Ticket confirmation: Users receive a confirmation email after booking their tickets.
 * Promotions: Cinema operators can promote movies to users through the website.
 
-Limitation:
-* The web application requires a device with an internet connection and a web browser.
-* The web application may not always have complete information about movies, events, or ticket availability.
+
