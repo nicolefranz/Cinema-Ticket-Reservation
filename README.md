@@ -4,6 +4,7 @@
 * Markup Language: HTML, CSS
 * Framework: Bootstrap
 * Database Management: mySQL
+* Mail Server: SMTP Server
 
 Project Description:
 	This project aims to develop a web-based cinema ticket booking system that will provide users with a convenient and efficient way to book tickets for movies at a cinema. The system will make it easier and more convenient for users to book tickets for movies, and it will help cinema operators to increase sales and improve customer satisfaction.
