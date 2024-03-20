@@ -1,4 +1,4 @@
-#Cinema Ticket Booking System
+# Cinema Ticket Booking System
 
 * Programming Language: JavaScript, PHP
 * Markup Language: HTML, CSS
